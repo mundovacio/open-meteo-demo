@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
+    "lint" : "standard --fix",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
