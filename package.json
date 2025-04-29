@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "open-meteo-demo",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -17,5 +17,11 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.4"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends" : "./node_modules/standard/eslintrc.json"
   }
 }
