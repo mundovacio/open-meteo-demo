@@ -23,6 +23,9 @@ Deploy:
 Netfly: Haremos los depliegues con Netfly desde la rama principal de nuestro repositorio
 
 
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
+
+
 ## instalación del proyecto
 
 
